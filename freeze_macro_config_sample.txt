@@ -1,0 +1,11 @@
+# Freeze Macro Configuration
+# Use virtual key codes (hex format) - see Microsoft documentation
+# Common keys: 0x01=LMB, 0x02=RMB, 0x04=MMB, 0x20=Space, 0x11=Ctrl
+freeze_key=0x04
+max_freeze_time=9.0
+unfreeze_duration=50
+toggle_mode=false
+freeze_outside_roblox=true
+take_all_processes=false
+target_fps=120
+process_name=RobloxPlayerBeta.exe
